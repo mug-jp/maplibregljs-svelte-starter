@@ -84,7 +84,7 @@ Copyright (c) 2023 MapLibre User Group Japan
 
 ![README02](static/README02.png)
 
-MapLibre GL JSとVue.jsを手軽に始める
+MapLibre GL JSとSvelteを手軽に始める
 - [MapLibre GL JS v3.3.1](https://maplibre.org)  
 - [Svelte v4.0.5](https://svelte.dev)  
 - node v20.6.1
