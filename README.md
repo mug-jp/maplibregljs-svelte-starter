@@ -10,6 +10,12 @@ Start MapLibre GL JS and Svelte easily.
 
 <br>
 
+## blog
+
+[Building a Map Application with MapLibre GL JS and Svelte](https://dev.to/mug-jp/building-a-map-application-with-maplibre-gl-js-and-svelte-pg6)
+
+<br>
+
 ## Usage
 
 ![README03](static/README03.png)
@@ -56,8 +62,6 @@ Lint
 npm run lint
 ```
 
----
-
 <br>
 <br>
 
@@ -89,6 +93,12 @@ MapLibre GL JSとSvelteを手軽に始める
 - [Svelte v4.0.5](https://svelte.dev)  
 - node v20.6.1
 - npm v9.8.1
+
+<br>
+
+## blog
+
+[MapLibre GL JSとSvelteを組み合わせた開発環境を構築してみた](https://www.memo.dayjournal.dev/memo/try-102)
 
 <br>
 
